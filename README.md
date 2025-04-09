@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
