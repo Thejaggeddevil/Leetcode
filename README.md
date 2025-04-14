@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/Thejaggeddevil/Leetcode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Thejaggeddevil/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Thejaggeddevil/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
