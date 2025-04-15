@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Thejaggeddevil/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Thejaggeddevil/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting Sort
 |  |
