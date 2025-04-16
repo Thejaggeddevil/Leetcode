@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Thejaggeddevil/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
