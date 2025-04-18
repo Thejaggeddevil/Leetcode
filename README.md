@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Thejaggeddevil/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Thejaggeddevil/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
