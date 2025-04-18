@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Thejaggeddevil/Leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
