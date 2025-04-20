@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Thejaggeddevil/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0921-spiral-matrix-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
+| [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Thejaggeddevil/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Thejaggeddevil/Leetcode/tree/master/0441-arranging-coins) |
+| [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Thejaggeddevil/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Thejaggeddevil/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
