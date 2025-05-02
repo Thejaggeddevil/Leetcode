@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thejaggeddevil/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 ## Interactive
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
