@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Thejaggeddevil/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Thejaggeddevil/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Thejaggeddevil/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Interactive
 |  |
 | ------- |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Thejaggeddevil/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Thejaggeddevil/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Thejaggeddevil/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Queue
 |  |
 | ------- |
