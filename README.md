@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Thejaggeddevil/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Thejaggeddevil/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Thejaggeddevil/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thejaggeddevil/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
