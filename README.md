@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Thejaggeddevil/Leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Thejaggeddevil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Thejaggeddevil/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [3639-zero-array-transformation-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
