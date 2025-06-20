@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Thejaggeddevil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Thejaggeddevil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Thejaggeddevil/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thejaggeddevil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Thejaggeddevil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Thejaggeddevil/Leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Thejaggeddevil/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
