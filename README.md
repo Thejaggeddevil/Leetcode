@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Thejaggeddevil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Thejaggeddevil/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thejaggeddevil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0344-reverse-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
