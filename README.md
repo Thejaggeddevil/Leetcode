@@ -29,6 +29,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Thejaggeddevil/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Thejaggeddevil/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -115,6 +116,7 @@
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -185,6 +187,7 @@
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thejaggeddevil/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Thejaggeddevil/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -250,6 +254,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
