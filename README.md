@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thejaggeddevil/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Thejaggeddevil/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Thejaggeddevil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -119,6 +120,7 @@
 | [0001-two-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Thejaggeddevil/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
@@ -194,6 +196,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Thejaggeddevil/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
@@ -319,6 +322,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
