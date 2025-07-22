@@ -60,6 +60,7 @@
 | [1656-count-good-triplets](https://github.com/Thejaggeddevil/Leetcode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thejaggeddevil/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Thejaggeddevil/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/Thejaggeddevil/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -144,6 +145,7 @@
 | [1500-count-largest-group](https://github.com/Thejaggeddevil/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Thejaggeddevil/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Thejaggeddevil/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Thejaggeddevil/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -291,6 +293,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Thejaggeddevil/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
