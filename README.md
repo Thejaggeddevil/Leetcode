@@ -479,6 +479,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -497,6 +498,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thejaggeddevil/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -506,6 +508,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Thejaggeddevil/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -558,6 +561,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
