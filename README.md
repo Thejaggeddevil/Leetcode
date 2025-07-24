@@ -77,6 +77,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -472,6 +473,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -482,6 +484,7 @@
 | [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thejaggeddevil/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -503,6 +506,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thejaggeddevil/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Thejaggeddevil/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
