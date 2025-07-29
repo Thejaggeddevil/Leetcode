@@ -82,6 +82,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -306,6 +307,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Thejaggeddevil/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -347,6 +349,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Thejaggeddevil/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String
@@ -487,6 +490,7 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Thejaggeddevil/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
