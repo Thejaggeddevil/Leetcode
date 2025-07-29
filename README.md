@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thejaggeddevil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Thejaggeddevil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -270,6 +271,7 @@
 | [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -516,6 +518,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Thejaggeddevil/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thejaggeddevil/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -529,6 +532,7 @@
 | [0101-symmetric-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thejaggeddevil/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Thejaggeddevil/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Thejaggeddevil/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -537,6 +541,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
