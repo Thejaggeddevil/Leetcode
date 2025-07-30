@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Thejaggeddevil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Thejaggeddevil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +143,7 @@
 | [0141-linked-list-cycle](https://github.com/Thejaggeddevil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thejaggeddevil/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Thejaggeddevil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Thejaggeddevil/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -229,6 +231,7 @@
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Thejaggeddevil/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Thejaggeddevil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Thejaggeddevil/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
