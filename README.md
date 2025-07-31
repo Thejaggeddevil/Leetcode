@@ -40,6 +40,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Thejaggeddevil/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -440,6 +441,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thejaggeddevil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0806-domino-and-tromino-tiling](https://github.com/Thejaggeddevil/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Thejaggeddevil/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Thejaggeddevil/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -501,6 +503,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Thejaggeddevil/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
