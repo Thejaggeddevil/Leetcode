@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thejaggeddevil/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Thejaggeddevil/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Thejaggeddevil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Thejaggeddevil/Leetcode/tree/master/0053-maximum-subarray) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Thejaggeddevil/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Thejaggeddevil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Thejaggeddevil/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Thejaggeddevil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
