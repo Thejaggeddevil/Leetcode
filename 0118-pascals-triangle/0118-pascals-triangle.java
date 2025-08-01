@@ -1,0 +1,25 @@
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> triangle = new ArrayList<>();
+
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> row = new ArrayList<>();
+
+            for (int j = 0; j <= i; j++) {
+                // First and last elements are always 1
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    // Middle elements: sum of two elements above
+                    int left = triangle.get(i - 1).get(j - 1);
+                    int right = triangle.get(i - 1).get(j);
+                    row.add(left + right);
+                }
+            }
+
+            triangle.add(row);
+        }
+
+        return triangle;
+    }
+}
