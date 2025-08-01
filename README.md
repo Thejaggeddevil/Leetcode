@@ -21,6 +21,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Thejaggeddevil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thejaggeddevil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Thejaggeddevil/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0162-find-peak-element) |
@@ -145,6 +146,7 @@
 | [0041-first-missing-positive](https://github.com/Thejaggeddevil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Thejaggeddevil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thejaggeddevil/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Thejaggeddevil/Leetcode/tree/master/0169-majority-element) |
@@ -567,6 +569,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Thejaggeddevil/Leetcode/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
