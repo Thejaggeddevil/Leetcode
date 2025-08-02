@@ -92,6 +92,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thejaggeddevil/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Thejaggeddevil/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Thejaggeddevil/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -176,6 +177,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Thejaggeddevil/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Thejaggeddevil/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Thejaggeddevil/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -258,6 +260,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/Thejaggeddevil/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thejaggeddevil/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -427,6 +430,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Thejaggeddevil/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thejaggeddevil/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
