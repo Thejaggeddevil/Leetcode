@@ -44,6 +44,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Thejaggeddevil/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Thejaggeddevil/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -162,6 +163,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Thejaggeddevil/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0924-fair-candy-swap](https://github.com/Thejaggeddevil/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Thejaggeddevil/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Thejaggeddevil/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thejaggeddevil/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thejaggeddevil/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Thejaggeddevil/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Thejaggeddevil/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Thejaggeddevil/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
