@@ -385,6 +385,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Thejaggeddevil/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Thejaggeddevil/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
@@ -586,6 +587,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thejaggeddevil/Leetcode/tree/master/0020-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Thejaggeddevil/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Thejaggeddevil/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
