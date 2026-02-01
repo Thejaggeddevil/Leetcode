@@ -224,6 +224,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Thejaggeddevil/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Thejaggeddevil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thejaggeddevil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Thejaggeddevil/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Thejaggeddevil/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
@@ -387,6 +388,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thejaggeddevil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Thejaggeddevil/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Thejaggeddevil/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Thejaggeddevil/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Thejaggeddevil/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
@@ -655,4 +657,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thejaggeddevil/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
