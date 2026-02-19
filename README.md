@@ -163,6 +163,7 @@
 | [0229-majority-element-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Thejaggeddevil/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Thejaggeddevil/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Thejaggeddevil/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Thejaggeddevil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -403,6 +404,7 @@
 | [0125-valid-palindrome](https://github.com/Thejaggeddevil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Thejaggeddevil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Thejaggeddevil/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Thejaggeddevil/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Thejaggeddevil/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Thejaggeddevil/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
