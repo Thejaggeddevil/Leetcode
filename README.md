@@ -92,6 +92,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Thejaggeddevil/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2463-minimum-total-distance-traveled](https://github.com/Thejaggeddevil/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thejaggeddevil/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -273,6 +274,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Thejaggeddevil/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Thejaggeddevil/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Thejaggeddevil/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -483,6 +485,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Thejaggeddevil/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Thejaggeddevil/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/Thejaggeddevil/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
