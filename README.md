@@ -111,6 +111,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thejaggeddevil/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Thejaggeddevil/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Thejaggeddevil/Leetcode/tree/master/3321-type-of-triangle) |
+| [3488-closest-equal-element-queries](https://github.com/Thejaggeddevil/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -194,6 +195,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Thejaggeddevil/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Thejaggeddevil/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/Thejaggeddevil/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -395,6 +397,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Thejaggeddevil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/Thejaggeddevil/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## String
 |  |
 | ------- |
