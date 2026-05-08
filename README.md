@@ -116,6 +116,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3639-zero-array-transformation-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -197,6 +198,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Thejaggeddevil/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/Thejaggeddevil/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Thejaggeddevil/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -225,6 +227,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Thejaggeddevil/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Thejaggeddevil/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -362,6 +365,7 @@
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -601,6 +605,7 @@
 | [0945-snakes-and-ladders](https://github.com/Thejaggeddevil/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Thejaggeddevil/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Thejaggeddevil/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Thejaggeddevil/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Thejaggeddevil/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
