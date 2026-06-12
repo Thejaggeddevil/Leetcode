@@ -218,6 +218,7 @@
 | [1500-count-largest-group](https://github.com/Thejaggeddevil/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Thejaggeddevil/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Thejaggeddevil/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/Thejaggeddevil/Leetcode/tree/master/1952-three-divisors) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thejaggeddevil/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Thejaggeddevil/Leetcode/tree/master/1656-count-good-triplets) |
+| [1952-three-divisors](https://github.com/Thejaggeddevil/Leetcode/tree/master/1952-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Thejaggeddevil/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Thejaggeddevil/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Thejaggeddevil/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Thejaggeddevil/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1952-three-divisors](https://github.com/Thejaggeddevil/Leetcode/tree/master/1952-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Thejaggeddevil/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Thejaggeddevil/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
